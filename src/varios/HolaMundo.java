@@ -9,6 +9,7 @@ public class HolaMundo {
 		Scanner sc=new Scanner(System.in);
 		
 		System.out.println("Hola Mundo!");
+		System.out.println("Santi máquina!");
 		sc.nextLine();
 		
 		sc.close();
